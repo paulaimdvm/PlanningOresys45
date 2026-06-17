@@ -24,8 +24,8 @@ trigramme = st.text_input("Entre ton trigramme (ex: ABC)").upper().strip()
 planning = {
     "Visite immersive": "📍  [A compléter]",
     "Excursion à vélo": "📍 [A compléter]",
-    "Initiation surf": "🪂 [A compléter]",
-    "Paddle & Kayak" : "📍 [A compléter]",
+    "Initiation surf": ,
+    "Paddle & Kayak" ,
 }
 
 # ==============================
